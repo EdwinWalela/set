@@ -2,9 +2,9 @@
 Introducing a modified C++ array with extra methods
 
 ## Usage
--locate `set.h` in termproject folder
--copy it to same directory as your main source file(.cpp)
-- add `#include "set.h"` 
+* locate `set.h` in termproject folder
+* copy it to same directory as your main source file(.cpp)
+* add `#include "set.h"` as a header file in your source code
 
 ## Declaring a new set
 
@@ -31,7 +31,7 @@ returns 1 if element is present and 0 if element does not exist
 ## example
 
 ```cpp
-  //Declare new set (type,size)
+  	//Declare new set (type,size)
 	Set<int, 10> mySet;
 
 	//find size of set
