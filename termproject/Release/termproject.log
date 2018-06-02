@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  termproject.cpp
+c:\users\edwin walela\source\repos\termproject\termproject\termproject.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  termproject.vcxproj -> C:\Users\Edwin Walela\source\repos\termproject\Release\termproject.exe
